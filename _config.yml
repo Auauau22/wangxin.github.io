@@ -1,0 +1,17 @@
+# Site settings
+title: "auauau - Academic Homepage"
+description: "Senior Undergraduate Student at Xi'an Jiaotong University, specializing in AI Security."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://wangxin.github.io" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Author settings
+author:
+  name: "wangxin"
+  email: "2983099412@qq.com"
+  description: "Senior Undergraduate Student at Xi'an Jiaotong University, specializing in AI Security."
+  github: "Auauau22"
